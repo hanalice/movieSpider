@@ -16,6 +16,11 @@ Movie spider from http://www.80s.tw/ &amp; Web Server to show movie list.
  2) express.router 路由控制
  3) ejs模板
 
+## 安装服务：
+```
+代码clone 到本地之后，首先执行npm install命令
+```
+
 ## 启动服务：
 ```
 node index.js watch 3000
